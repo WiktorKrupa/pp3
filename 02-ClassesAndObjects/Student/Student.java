@@ -53,7 +53,7 @@ public class Student {
         s1.displayIdInfo();
         
         
-    }
+    };
     
     
 }
