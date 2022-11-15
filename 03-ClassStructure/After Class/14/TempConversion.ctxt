@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TempConversion
+comment1.params=
+comment1.target=void\ celciusToKelvin()
+comment2.params=kelvin
+comment2.target=double\ kelvinToCelcius(double)
+comment3.params=celcius
+comment3.target=double\ celciusToFahrenheit(double)
+comment4.params=fahrenheit
+comment4.target=double\ fahrenheitToCelcius(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
